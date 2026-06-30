@@ -7,6 +7,7 @@
   <a href="https://github.com/basanth-p"><img src="https://komarev.com/ghpvc/?username=basanth-p&style=flat-square&color=3B82F6" alt="Profile Views" /></a>
   <a href="mailto:pedapati.basanth@gmail.com"><img src="https://img.shields.io/badge/Email-pedapati.basanth%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/basanth-p"><img src="https://img.shields.io/github/followers/basanth-p?style=flat-square&color=3B82F6&label=Followers" /></a>
+  <a href="https://wakatime.com/@basanth-p"><img src="https://wakatime.com/badge/user/basanth-p.svg?style=flat-square" alt="WakaTime" /></a>
 </p>
 
 ---
@@ -48,6 +49,25 @@ const basanth = {
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,postgres,supabase,docker,aws,vercel,git,github,vscode" />
 </p>
+
+---
+
+## ⏱️ WakaTime Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<div align="center">
+  <a href="https://wakatime.com/@basanth-p">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=basanth-p&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  </a>
+</div>
+
+> ⚠️ **To activate live WakaTime stats:**
+> 1. Sign up at [wakatime.com](https://wakatime.com) and install the VS Code extension
+> 2. Copy your WakaTime API key from [wakatime.com/settings/api-key](https://wakatime.com/settings/api-key)
+> 3. Add it as a GitHub secret named `WAKATIME_API_KEY` in this repo
+> 4. Create `.github/workflows/waka-readme.yml` (see below) to auto-update this section daily
 
 ---
 
